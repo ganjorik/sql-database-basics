@@ -25,3 +25,5 @@ INSERT INTO peopledenis.person (id, age, salary, passport, adress, dateOfBirthda
 
 
 SELECT * FROM person WHERE age > 21 ORDER BY dateTimeCreate;
+
+-- ready for review
